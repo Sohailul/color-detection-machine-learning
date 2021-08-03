@@ -6,4 +6,5 @@ pip install opencv-python </br>
 pip install pandas </br>
 
 
-Run Command python color_detection.py -i "image name"
+Run Command:</br>
+python color_detection.py -i "image name"
